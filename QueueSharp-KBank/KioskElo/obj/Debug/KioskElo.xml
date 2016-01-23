@@ -1,0 +1,1796 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KioskElo
+</name>
+</assembly>
+<members>
+<member name="P:KioskElo.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._111">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._121">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._13">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._131">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._14">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._141">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._15">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._18">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._19">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._20">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._22">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._23">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._25">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._26">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._27">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._28">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._30">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._33">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._44">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._55">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources._9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Appoint_EN">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Appoint_TH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Appointment_EN">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Appointment_TH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.ArreterSZ">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Back">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.back_en">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btmMain_EN">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btmMain_TH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btn1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btnAppointment_EN">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btnAppointment_Eng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btnAppointment_TH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btnBack_EN">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btnBack_Eng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btnBack_TH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btnBack_TH1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btnEdit_EN">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btnEdit_Eng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btnEdit_TH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btnMain_Eng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btnOK_EN">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btnOK_Eng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.btnOK_TH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Cancel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.capture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Close">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.close1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.EN">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.EN_template_capture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.GB_1366_768">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.GB_1366_7681">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.header_q_en">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.header_q_th">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Kiosk_Appoint_ENG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Kiosk_ChooseService_TH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Kiosk_Eng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Kiosk_TH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Logo3G_Eng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Logo3G_Tha">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.msg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.navigate_left">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.navigate_right">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.OK">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.ok_en">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.ok_th">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.previous_01">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.re_capture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.template_01">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.template_02">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.TH">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.TH_template_capture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.txtNoQ_Eng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.txtReserveQ_Eng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.txtServices_Eng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.txtTitle_Eng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.txtWaitingQ_Eng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.txtWaitingTime_Eng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Untitled_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Untitled_11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.Untitled_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KioskElo.My.Resources.Resources.จองคิว">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:KioskElo.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.#ctor">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.GetCustomerProfileCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.GetArBalanceCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.LDAPAuthCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.ShopSendSMSCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.CheckActiveAppointmentCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.DeleteSMSCancelAppointmentCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.CheckBlackListCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.CreateAppointmentJobCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.SendSMSCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.UpdateAppointmentJobStatusCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterItemListCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterItemByIDCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterCustomerTypeListCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterCustomerTypeByIDCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterGroupUserListCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterGroupUserByIDCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterSkillListCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterSkillByIDCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterSkillItemListCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterHoldReasonListCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterHoldReasonByIDCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterLogoutReasonListCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterLogoutReasonByIDCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.LoadImageFromWebConfigCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.UpdateTransferStatusCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.GetAppointmentPolicyCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.SendCaptureImageFileCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.LoadCaptureImageFileCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.UpdateCustCaptureIndexFileCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceMain.WebServiceAPI.CreateFailOverDBLogCompleted">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetCustomerProfile(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetCustomerProfileAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetCustomerProfileAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetArBalance(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetArBalanceAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetArBalanceAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.LDAPAuth(System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.LDAPAuthAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.LDAPAuthAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.ShopSendSMS(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.ShopSendSMSAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.ShopSendSMSAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.CheckActiveAppointment(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.CheckActiveAppointmentAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.CheckActiveAppointmentAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.DeleteSMSCancelAppointment(System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.DeleteSMSCancelAppointmentAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.DeleteSMSCancelAppointmentAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.CheckBlackList(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.CheckBlackListAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.CheckBlackListAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.CreateAppointmentJob(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.CreateAppointmentJobAsync(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.CreateAppointmentJobAsync(System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.SendSMS(System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.SendSMSAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.SendSMSAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.UpdateAppointmentJobStatus(System.Int64,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.UpdateAppointmentJobStatusAsync(System.Int64,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.UpdateAppointmentJobStatusAsync(System.Int64,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterItemList">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterItemListAsync">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterItemListAsync(System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterItemByID(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterItemByIDAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterItemByIDAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterCustomerTypeList">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterCustomerTypeListAsync">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterCustomerTypeListAsync(System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterCustomerTypeByID(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterCustomerTypeByIDAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterCustomerTypeByIDAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterGroupUserList">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterGroupUserListAsync">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterGroupUserListAsync(System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterGroupUserByID(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterGroupUserByIDAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterGroupUserByIDAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterSkillList">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterSkillListAsync">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterSkillListAsync(System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterSkillByID(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterSkillByIDAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterSkillByIDAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterSkillItemList(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterSkillItemListAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterSkillItemListAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterHoldReasonList">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterHoldReasonListAsync">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterHoldReasonListAsync(System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterHoldReasonByID(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterHoldReasonByIDAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterHoldReasonByIDAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterLogoutReasonList">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterLogoutReasonListAsync">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterLogoutReasonListAsync(System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterLogoutReasonByID(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterLogoutReasonByIDAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetMasterLogoutReasonByIDAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.LoadImageFromWebConfig(System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.LoadImageFromWebConfigAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.LoadImageFromWebConfigAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.UpdateTransferStatus(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.UpdateTransferStatusAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.UpdateTransferStatusAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetAppointmentPolicy">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetAppointmentPolicyAsync">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.GetAppointmentPolicyAsync(System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.SendCaptureImageFile(System.Byte[],System.String,System.String,System.DateTime,System.DateTime)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.SendCaptureImageFileAsync(System.Byte[],System.String,System.String,System.DateTime,System.DateTime)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.SendCaptureImageFileAsync(System.Byte[],System.String,System.String,System.DateTime,System.DateTime,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.LoadCaptureImageFile(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.LoadCaptureImageFileAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.LoadCaptureImageFileAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.UpdateCustCaptureIndexFile">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.UpdateCustCaptureIndexFileAsync">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.UpdateCustCaptureIndexFileAsync(System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.CreateFailOverDBLog(System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.CreateFailOverDBLogAsync(System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.CreateFailOverDBLogAsync(System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceMain.WebServiceAPI.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.WebServiceAPI">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.TITLE_NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.F_NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.L_NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.MOBILE_NO">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.MOBILE_STATUS">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.EMAIL">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.SEGMENT_LEVEL">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.BIRTH_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.CATEGORY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.ACCOUNT_BALANCE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.CONTACT_CLASS">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.SERVICE_YEAR">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.CHUM_SCORE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.PREFER_LANG">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.CAMPAIGN_CODE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.CAMPAIGN_NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.NETWORK_TYPE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.CREATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.CREATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.UPDATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.UPDATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.CAMPAIGN_NAME_EN">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.CAMPAIGN_DESC">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.CAMPAIGN_DESC_TH2">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.CAMPAIGN_DESC_EN2">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.CORPORATE_TYPE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.PA_GROUP">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.URL_CAPTURE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.URL_CAPTURE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.CONTACT_ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.ACCOUNT_NO">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomerShParaDB.BILLING_SYSTEM">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.TbCustomerShParaDB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.CaptureImageResponsePara.CaptureResult">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.CaptureImageResponsePara.CaptureImage">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.CaptureImageResponsePara">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbLogoutReasonCenParaDB.ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbLogoutReasonCenParaDB.NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbLogoutReasonCenParaDB.PRODUCTIVE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbLogoutReasonCenParaDB.ACTIVE_STATUS">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbLogoutReasonCenParaDB.CREATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbLogoutReasonCenParaDB.CREATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbLogoutReasonCenParaDB.UPDATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbLogoutReasonCenParaDB.UPDATE_DATE">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.TbLogoutReasonCenParaDB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbHoldReasonCenParaDB.ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbHoldReasonCenParaDB.NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbHoldReasonCenParaDB.PRODUCTIVE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbHoldReasonCenParaDB.ACTIVE_STATUS">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbHoldReasonCenParaDB.CREATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbHoldReasonCenParaDB.CREATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbHoldReasonCenParaDB.UPDATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbHoldReasonCenParaDB.UPDATE_DATE">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.TbHoldReasonCenParaDB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbSkillCenParaDB.ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbSkillCenParaDB.CREATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbSkillCenParaDB.CREATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbSkillCenParaDB.UPDATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbSkillCenParaDB.UPDATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbSkillCenParaDB.SKILL">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbSkillCenParaDB.APPOINTMENT">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbSkillCenParaDB.ACTIVE_STATUS">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.TbSkillCenParaDB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbGroupuserCenParaDB.ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbGroupuserCenParaDB.GROUP_CODE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbGroupuserCenParaDB.GROUP_NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbGroupuserCenParaDB.ACTIVE_STATUS">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbGroupuserCenParaDB.CREATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbGroupuserCenParaDB.CREATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbGroupuserCenParaDB.UPDATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbGroupuserCenParaDB.UPDATE_DATE">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.TbGroupuserCenParaDB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomertypeCenParaDB.ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomertypeCenParaDB.CUSTOMERTYPE_CODE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomertypeCenParaDB.CUSTOMERTYPE_NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomertypeCenParaDB.TXT_QUEUE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomertypeCenParaDB.MIN_QUEUE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomertypeCenParaDB.MAX_QUEUE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomertypeCenParaDB.PRIORITY_VALUE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomertypeCenParaDB.COLOR">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomertypeCenParaDB.APP">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomertypeCenParaDB.DEF">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomertypeCenParaDB.ACTIVE_STATUS">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomertypeCenParaDB.CREATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomertypeCenParaDB.CREATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomertypeCenParaDB.UPDATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbCustomertypeCenParaDB.UPDATE_DATE">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.TbCustomertypeCenParaDB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.ITEM_CODE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.ITEM_NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.ITEM_NAME_TH">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.ITEM_TIME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.ITEM_WAIT">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.ITEM_ORDER">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.TXT_QUEUE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.COLOR">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.ACTIVE_STATUS">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.Q_TYPE_ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.APP_MIN_QUEUE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.APP_MAX_QUEUE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.CREATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.CREATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.UPDATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.UPDATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbItemCenParaDB.TB_ITEM_GROUP_ID">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.TbItemCenParaDB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbAppointmentJobCenParaDB.ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbAppointmentJobCenParaDB.CREATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbAppointmentJobCenParaDB.CREATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbAppointmentJobCenParaDB.UPDATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbAppointmentJobCenParaDB.UPDATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbAppointmentJobCenParaDB.SHOP_ABB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbAppointmentJobCenParaDB.MOBILE_NO">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbAppointmentJobCenParaDB.APP_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbAppointmentJobCenParaDB.START_SLOT">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbAppointmentJobCenParaDB.APPOINTMENT_CHANNEL">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.TbAppointmentJobCenParaDB.ACTIVE_STATUS">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.TbAppointmentJobCenParaDB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.SaveAppointmentJobPara.SaveResult">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.SaveAppointmentJobPara.AppointmentJobPara">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.SaveAppointmentJobPara.ErrorMessage">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.SaveAppointmentJobPara">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.AppointmentCheckBacklistResultPara.IsBackList">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.AppointmentCheckBacklistResultPara.MSG">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.AppointmentCheckBacklistResultPara.NewAppointmentDate">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.AppointmentCheckBacklistResultPara">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.SMSResponsePara.RESULT">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.SMSResponsePara.ERROR_RESPONSE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.SMSResponsePara.CALL_GW2">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.SMSResponsePara">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.LDAPResponsePara.RESULT">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.LDAPResponsePara.RESPONSE_MSG">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.LDAPResponsePara.IS_CALL_GW2">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.LDAPResponsePara">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetCustomerProfileCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.GetCustomerProfileCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetCustomerProfileCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetArBalanceCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.GetArBalanceCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetArBalanceCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.LDAPAuthCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.LDAPAuthCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.LDAPAuthCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.ShopSendSMSCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.ShopSendSMSCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.ShopSendSMSCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.CheckActiveAppointmentCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.CheckActiveAppointmentCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.CheckActiveAppointmentCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.DeleteSMSCancelAppointmentCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.DeleteSMSCancelAppointmentCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.DeleteSMSCancelAppointmentCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.CheckBlackListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.CheckBlackListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.CheckBlackListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.CreateAppointmentJobCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.CreateAppointmentJobCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.CreateAppointmentJobCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.SendSMSCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.SendSMSCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.SendSMSCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.UpdateAppointmentJobStatusCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.UpdateAppointmentJobStatusCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.UpdateAppointmentJobStatusCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterItemListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.GetMasterItemListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterItemListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterItemByIDCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.GetMasterItemByIDCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterItemByIDCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterCustomerTypeListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.GetMasterCustomerTypeListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterCustomerTypeListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterCustomerTypeByIDCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.GetMasterCustomerTypeByIDCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterCustomerTypeByIDCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterGroupUserListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.GetMasterGroupUserListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterGroupUserListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterGroupUserByIDCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.GetMasterGroupUserByIDCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterGroupUserByIDCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterSkillListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.GetMasterSkillListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterSkillListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterSkillByIDCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.GetMasterSkillByIDCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterSkillByIDCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterSkillItemListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.GetMasterSkillItemListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterSkillItemListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterHoldReasonListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.GetMasterHoldReasonListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterHoldReasonListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterHoldReasonByIDCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.GetMasterHoldReasonByIDCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterHoldReasonByIDCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterLogoutReasonListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.GetMasterLogoutReasonListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterLogoutReasonListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterLogoutReasonByIDCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.GetMasterLogoutReasonByIDCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetMasterLogoutReasonByIDCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.LoadImageFromWebConfigCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.LoadImageFromWebConfigCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.LoadImageFromWebConfigCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.UpdateTransferStatusCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.UpdateTransferStatusCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.UpdateTransferStatusCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetAppointmentPolicyCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.GetAppointmentPolicyCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.GetAppointmentPolicyCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.SendCaptureImageFileCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.SendCaptureImageFileCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.SendCaptureImageFileCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.LoadCaptureImageFileCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceMain.LoadCaptureImageFileCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.LoadCaptureImageFileCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.UpdateCustCaptureIndexFileCompletedEventHandler">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceMain.CreateFailOverDBLogCompletedEventHandler">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.#ctor">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetCustomerProfileCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetArBalanceCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.LDAPAuthCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.ShopSendSMSCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CheckActiveAppointmentCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.DeleteSMSCancelAppointmentCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CheckBlackListCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CreateAppointmentJobCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.SendSMSCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.UpdateAppointmentJobStatusCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterItemListCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterItemByIDCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterCustomerTypeListCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterCustomerTypeByIDCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterGroupUserListCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterGroupUserByIDCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterSkillListCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterSkillByIDCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterSkillItemListCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterHoldReasonListCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterHoldReasonByIDCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterLogoutReasonListCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterLogoutReasonByIDCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.LoadImageFromWebConfigCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.UpdateTransferStatusCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetAppointmentPolicyCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.SendCaptureImageFileCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.LoadCaptureImageFileCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.UpdateCustCaptureIndexFileCompleted">
+	<remarks/>
+</member><member name="E:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CreateFailOverDBLogCompleted">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetCustomerProfile(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetCustomerProfileAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetCustomerProfileAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetArBalance(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetArBalanceAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetArBalanceAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.LDAPAuth(System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.LDAPAuthAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.LDAPAuthAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.ShopSendSMS(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.ShopSendSMSAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.ShopSendSMSAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CheckActiveAppointment(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CheckActiveAppointmentAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CheckActiveAppointmentAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.DeleteSMSCancelAppointment(System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.DeleteSMSCancelAppointmentAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.DeleteSMSCancelAppointmentAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CheckBlackList(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CheckBlackListAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CheckBlackListAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CreateAppointmentJob(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CreateAppointmentJobAsync(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CreateAppointmentJobAsync(System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.SendSMS(System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.SendSMSAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.SendSMSAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.UpdateAppointmentJobStatus(System.Int64,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.UpdateAppointmentJobStatusAsync(System.Int64,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.UpdateAppointmentJobStatusAsync(System.Int64,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterItemList">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterItemListAsync">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterItemListAsync(System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterItemByID(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterItemByIDAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterItemByIDAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterCustomerTypeList">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterCustomerTypeListAsync">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterCustomerTypeListAsync(System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterCustomerTypeByID(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterCustomerTypeByIDAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterCustomerTypeByIDAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterGroupUserList">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterGroupUserListAsync">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterGroupUserListAsync(System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterGroupUserByID(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterGroupUserByIDAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterGroupUserByIDAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterSkillList">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterSkillListAsync">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterSkillListAsync(System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterSkillByID(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterSkillByIDAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterSkillByIDAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterSkillItemList(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterSkillItemListAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterSkillItemListAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterHoldReasonList">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterHoldReasonListAsync">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterHoldReasonListAsync(System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterHoldReasonByID(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterHoldReasonByIDAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterHoldReasonByIDAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterLogoutReasonList">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterLogoutReasonListAsync">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterLogoutReasonListAsync(System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterLogoutReasonByID(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterLogoutReasonByIDAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetMasterLogoutReasonByIDAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.LoadImageFromWebConfig(System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.LoadImageFromWebConfigAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.LoadImageFromWebConfigAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.UpdateTransferStatus(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.UpdateTransferStatusAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.UpdateTransferStatusAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetAppointmentPolicy">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetAppointmentPolicyAsync">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.GetAppointmentPolicyAsync(System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.SendCaptureImageFile(System.Byte[],System.String,System.String,System.DateTime,System.DateTime)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.SendCaptureImageFileAsync(System.Byte[],System.String,System.String,System.DateTime,System.DateTime)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.SendCaptureImageFileAsync(System.Byte[],System.String,System.String,System.DateTime,System.DateTime,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.LoadCaptureImageFile(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.LoadCaptureImageFileAsync(System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.LoadCaptureImageFileAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.UpdateCustCaptureIndexFile">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.UpdateCustCaptureIndexFileAsync">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.UpdateCustCaptureIndexFileAsync(System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CreateFailOverDBLog(System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CreateFailOverDBLogAsync(System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CreateFailOverDBLogAsync(System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:KioskElo.ShopWebServiceDisplay.WebServiceAPI.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.WebServiceAPI">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.TITLE_NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.F_NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.L_NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.MOBILE_NO">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.MOBILE_STATUS">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.EMAIL">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.SEGMENT_LEVEL">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.BIRTH_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.CATEGORY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.ACCOUNT_BALANCE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.CONTACT_CLASS">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.SERVICE_YEAR">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.CHUM_SCORE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.PREFER_LANG">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.CAMPAIGN_CODE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.CAMPAIGN_NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.NETWORK_TYPE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.CREATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.CREATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.UPDATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.UPDATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.CAMPAIGN_NAME_EN">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.CAMPAIGN_DESC">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.CAMPAIGN_DESC_TH2">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.CAMPAIGN_DESC_EN2">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.CORPORATE_TYPE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.PA_GROUP">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.URL_CAPTURE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.URL_CAPTURE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.CONTACT_ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.ACCOUNT_NO">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB.BILLING_SYSTEM">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.TbCustomerShParaDB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.CaptureImageResponsePara.CaptureResult">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.CaptureImageResponsePara.CaptureImage">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.CaptureImageResponsePara">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbLogoutReasonCenParaDB.ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbLogoutReasonCenParaDB.NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbLogoutReasonCenParaDB.PRODUCTIVE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbLogoutReasonCenParaDB.ACTIVE_STATUS">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbLogoutReasonCenParaDB.CREATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbLogoutReasonCenParaDB.CREATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbLogoutReasonCenParaDB.UPDATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbLogoutReasonCenParaDB.UPDATE_DATE">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.TbLogoutReasonCenParaDB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbHoldReasonCenParaDB.ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbHoldReasonCenParaDB.NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbHoldReasonCenParaDB.PRODUCTIVE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbHoldReasonCenParaDB.ACTIVE_STATUS">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbHoldReasonCenParaDB.CREATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbHoldReasonCenParaDB.CREATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbHoldReasonCenParaDB.UPDATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbHoldReasonCenParaDB.UPDATE_DATE">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.TbHoldReasonCenParaDB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbSkillCenParaDB.ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbSkillCenParaDB.CREATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbSkillCenParaDB.CREATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbSkillCenParaDB.UPDATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbSkillCenParaDB.UPDATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbSkillCenParaDB.SKILL">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbSkillCenParaDB.APPOINTMENT">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbSkillCenParaDB.ACTIVE_STATUS">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.TbSkillCenParaDB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbGroupuserCenParaDB.ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbGroupuserCenParaDB.GROUP_CODE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbGroupuserCenParaDB.GROUP_NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbGroupuserCenParaDB.ACTIVE_STATUS">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbGroupuserCenParaDB.CREATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbGroupuserCenParaDB.CREATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbGroupuserCenParaDB.UPDATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbGroupuserCenParaDB.UPDATE_DATE">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.TbGroupuserCenParaDB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomertypeCenParaDB.ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomertypeCenParaDB.CUSTOMERTYPE_CODE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomertypeCenParaDB.CUSTOMERTYPE_NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomertypeCenParaDB.TXT_QUEUE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomertypeCenParaDB.MIN_QUEUE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomertypeCenParaDB.MAX_QUEUE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomertypeCenParaDB.PRIORITY_VALUE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomertypeCenParaDB.COLOR">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomertypeCenParaDB.APP">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomertypeCenParaDB.DEF">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomertypeCenParaDB.ACTIVE_STATUS">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomertypeCenParaDB.CREATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomertypeCenParaDB.CREATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomertypeCenParaDB.UPDATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbCustomertypeCenParaDB.UPDATE_DATE">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.TbCustomertypeCenParaDB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.ITEM_CODE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.ITEM_NAME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.ITEM_NAME_TH">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.ITEM_TIME">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.ITEM_WAIT">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.ITEM_ORDER">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.TXT_QUEUE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.COLOR">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.ACTIVE_STATUS">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.Q_TYPE_ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.APP_MIN_QUEUE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.APP_MAX_QUEUE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.CREATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.CREATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.UPDATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.UPDATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB.TB_ITEM_GROUP_ID">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.TbItemCenParaDB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbAppointmentJobCenParaDB.ID">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbAppointmentJobCenParaDB.CREATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbAppointmentJobCenParaDB.CREATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbAppointmentJobCenParaDB.UPDATE_BY">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbAppointmentJobCenParaDB.UPDATE_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbAppointmentJobCenParaDB.SHOP_ABB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbAppointmentJobCenParaDB.MOBILE_NO">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbAppointmentJobCenParaDB.APP_DATE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbAppointmentJobCenParaDB.START_SLOT">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbAppointmentJobCenParaDB.APPOINTMENT_CHANNEL">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.TbAppointmentJobCenParaDB.ACTIVE_STATUS">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.TbAppointmentJobCenParaDB">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.SaveAppointmentJobPara.SaveResult">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.SaveAppointmentJobPara.AppointmentJobPara">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.SaveAppointmentJobPara.ErrorMessage">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.SaveAppointmentJobPara">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.AppointmentCheckBacklistResultPara.IsBackList">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.AppointmentCheckBacklistResultPara.MSG">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.AppointmentCheckBacklistResultPara.NewAppointmentDate">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.AppointmentCheckBacklistResultPara">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.SMSResponsePara.RESULT">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.SMSResponsePara.ERROR_RESPONSE">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.SMSResponsePara.CALL_GW2">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.SMSResponsePara">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.LDAPResponsePara.RESULT">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.LDAPResponsePara.RESPONSE_MSG">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.LDAPResponsePara.IS_CALL_GW2">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.LDAPResponsePara">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetCustomerProfileCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.GetCustomerProfileCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetCustomerProfileCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetArBalanceCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.GetArBalanceCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetArBalanceCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.LDAPAuthCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.LDAPAuthCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.LDAPAuthCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.ShopSendSMSCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.ShopSendSMSCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.ShopSendSMSCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.CheckActiveAppointmentCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.CheckActiveAppointmentCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.CheckActiveAppointmentCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.DeleteSMSCancelAppointmentCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.DeleteSMSCancelAppointmentCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.DeleteSMSCancelAppointmentCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.CheckBlackListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.CheckBlackListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.CheckBlackListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.CreateAppointmentJobCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.CreateAppointmentJobCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.CreateAppointmentJobCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.SendSMSCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.SendSMSCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.SendSMSCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.UpdateAppointmentJobStatusCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.UpdateAppointmentJobStatusCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.UpdateAppointmentJobStatusCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterItemListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.GetMasterItemListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterItemListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterItemByIDCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.GetMasterItemByIDCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterItemByIDCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterCustomerTypeListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.GetMasterCustomerTypeListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterCustomerTypeListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterCustomerTypeByIDCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.GetMasterCustomerTypeByIDCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterCustomerTypeByIDCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterGroupUserListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.GetMasterGroupUserListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterGroupUserListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterGroupUserByIDCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.GetMasterGroupUserByIDCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterGroupUserByIDCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterSkillListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.GetMasterSkillListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterSkillListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterSkillByIDCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.GetMasterSkillByIDCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterSkillByIDCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterSkillItemListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.GetMasterSkillItemListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterSkillItemListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterHoldReasonListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.GetMasterHoldReasonListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterHoldReasonListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterHoldReasonByIDCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.GetMasterHoldReasonByIDCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterHoldReasonByIDCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterLogoutReasonListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.GetMasterLogoutReasonListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterLogoutReasonListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterLogoutReasonByIDCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.GetMasterLogoutReasonByIDCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetMasterLogoutReasonByIDCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.LoadImageFromWebConfigCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.LoadImageFromWebConfigCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.LoadImageFromWebConfigCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.UpdateTransferStatusCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.UpdateTransferStatusCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.UpdateTransferStatusCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetAppointmentPolicyCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.GetAppointmentPolicyCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.GetAppointmentPolicyCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.SendCaptureImageFileCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.SendCaptureImageFileCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.SendCaptureImageFileCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.LoadCaptureImageFileCompletedEventHandler">
+	<remarks/>
+</member><member name="P:KioskElo.ShopWebServiceDisplay.LoadCaptureImageFileCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.LoadCaptureImageFileCompletedEventArgs">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.UpdateCustCaptureIndexFileCompletedEventHandler">
+	<remarks/>
+</member><member name="T:KioskElo.ShopWebServiceDisplay.CreateFailOverDBLogCompletedEventHandler">
+	<remarks/>
+</member>
+</members>
+</doc>

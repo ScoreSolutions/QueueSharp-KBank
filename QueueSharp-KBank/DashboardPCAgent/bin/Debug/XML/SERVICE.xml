@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NewDataSet>
+  <SERVICE_LIST>
+    <id>1</id>
+    <item_name>Payment</item_name>
+    <item_name_th>ชำระค่าบริการ</item_name_th>
+    <kpi_percen>50</kpi_percen>
+    <color>R</color>
+    <csi_percen>75</csi_percen>
+    <csi_face>D</csi_face>
+  </SERVICE_LIST>
+  <SERVICE_LIST>
+    <id>2</id>
+    <item_name>Customer Service</item_name>
+    <item_name_th>บริการลูกค้า</item_name_th>
+    <kpi_percen>100</kpi_percen>
+    <color>G</color>
+    <csi_percen>33</csi_percen>
+    <csi_face>D</csi_face>
+  </SERVICE_LIST>
+  <SERVICE_LIST>
+    <id>3</id>
+    <item_name>Deposit/Withdraw/Transfer</item_name>
+    <item_name_th>ฝาก/ถอน/โอน</item_name_th>
+    <kpi_percen>67</kpi_percen>
+    <color>R</color>
+    <csi_percen>100</csi_percen>
+    <csi_face>S</csi_face>
+  </SERVICE_LIST>
+  <SERVICE_LIST>
+    <id>4</id>
+    <item_name>K-Global Money Transfer</item_name>
+    <item_name_th>โอนเงินระหว่างประเทศ</item_name_th>
+    <kpi_percen>100</kpi_percen>
+    <color>G</color>
+    <csi_percen>50</csi_percen>
+    <csi_face>D</csi_face>
+  </SERVICE_LIST>
+</NewDataSet>

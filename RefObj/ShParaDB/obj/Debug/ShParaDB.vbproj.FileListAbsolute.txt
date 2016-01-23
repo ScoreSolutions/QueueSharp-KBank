@@ -1,0 +1,8 @@
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShParaDB\bin\Debug\ShParaDB.dll
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShParaDB\bin\Debug\ShParaDB.pdb
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShParaDB\bin\Debug\ShParaDB.xml
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShParaDB\obj\Debug\ShParaDB.Resources.resources
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShParaDB\obj\Debug\ShParaDB.vbproj.GenerateResource.Cache
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShParaDB\obj\Debug\ShParaDB.dll
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShParaDB\obj\Debug\ShParaDB.xml
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShParaDB\obj\Debug\ShParaDB.pdb

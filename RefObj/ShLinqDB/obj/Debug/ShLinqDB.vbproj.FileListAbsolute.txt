@@ -1,0 +1,12 @@
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShLinqDB\bin\Debug\ShLinqDB.dll
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShLinqDB\bin\Debug\ShLinqDB.pdb
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShLinqDB\bin\Debug\ShLinqDB.xml
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShLinqDB\bin\Debug\ShParaDB.dll
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShLinqDB\bin\Debug\ShParaDB.pdb
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShLinqDB\bin\Debug\ShParaDB.xml
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShLinqDB\obj\Debug\ShLinqDB.vbprojResolveAssemblyReference.cache
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShLinqDB\obj\Debug\ShLinqDB.Resources.resources
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShLinqDB\obj\Debug\ShLinqDB.vbproj.GenerateResource.Cache
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShLinqDB\obj\Debug\ShLinqDB.dll
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShLinqDB\obj\Debug\ShLinqDB.xml
+D:\MyProject\QueueSharp-KBank\trunk\RefObj\ShLinqDB\obj\Debug\ShLinqDB.pdb
